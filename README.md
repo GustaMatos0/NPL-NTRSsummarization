@@ -1,6 +1,6 @@
 # Rocket Team - CAN AI PRESERVE OUR SCIENCE LEGACY?
 
-<img src="logo.png" style="width:320px;height:200px;">
+<img src="logo.png.png" style="width:320px;height:200px;">
 
 
 ## Who we are?
